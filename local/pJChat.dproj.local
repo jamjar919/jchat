@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2014/10/24 11:47:33.000.251,=U:\My Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2014/10/24 12:14:36.000.395,U:\My Documents\Embarcadero\Studio\Projects\Unit1.dfm=U:\My Documents\Embarcadero\Studio\Projects\JChat\uJChatMain.dfm</Transaction>
+    <Transaction>2014/10/24 12:14:36.000.395,U:\My Documents\Embarcadero\Studio\Projects\Unit1.pas=U:\My Documents\Embarcadero\Studio\Projects\JChat\uJChatMain.pas</Transaction>
+    <Transaction>2014/10/24 12:14:44.000.411,U:\My Documents\Embarcadero\Studio\Projects\Project1.dproj=U:\My Documents\Embarcadero\Studio\Projects\JChat\pJChat.dproj</Transaction>
+    <Transaction>2014/10/24 12:19:45.000.944,=U:\My Documents\Embarcadero\Studio\Projects\JChat\Unit1.pas</Transaction>
+    <Transaction>2014/10/24 12:20:09.000.971,U:\My Documents\Embarcadero\Studio\Projects\JChat\Unit1.pas=U:\My Documents\Embarcadero\Studio\Projects\JChat\uJChatLoadChat.pas</Transaction>
+    <Transaction>2014/10/24 12:20:09.000.971,U:\My Documents\Embarcadero\Studio\Projects\JChat\Unit1.dfm=U:\My Documents\Embarcadero\Studio\Projects\JChat\uJChatLoadChat.dfm</Transaction>
+    <Transaction>2014/10/24 12:34:18.000.810,=U:\My Documents\Embarcadero\Studio\Projects\JChat\Unit1.pas</Transaction>
+    <Transaction>2014/10/24 12:34:39.000.623,U:\My Documents\Embarcadero\Studio\Projects\JChat\Unit1.pas=U:\My Documents\Embarcadero\Studio\Projects\JChat\uJChatLoadUser.pas</Transaction>
+    <Transaction>2014/10/24 12:34:39.000.623,U:\My Documents\Embarcadero\Studio\Projects\JChat\Unit1.dfm=U:\My Documents\Embarcadero\Studio\Projects\JChat\uJChatLoadUser.dfm</Transaction>
+    <Transaction>2014/10/28 00:03:41.000.212,=J:\Documents\Embarcadero\Studio\Projects\JChat\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
